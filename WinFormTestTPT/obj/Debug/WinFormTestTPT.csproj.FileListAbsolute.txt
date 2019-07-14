@@ -1,0 +1,10 @@
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\bin\Debug\WinFormTestTPT.exe.config
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\bin\Debug\WinFormTestTPT.exe
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\bin\Debug\WinFormTestTPT.pdb
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.csprojAssemblyReference.cache
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.Properties.Resources.resources
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.csproj.GenerateResource.cache
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.csproj.CoreCompileInputs.cache
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.exe
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.pdb
+D:\DEV\VS2017\WinFormTestTPT\WinFormTestTPT\obj\Debug\WinFormTestTPT.BaseForm.resources
