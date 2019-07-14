@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormTestTPT", "WinFormTestTPT\WinFormTestTPT.csproj", "{6E485759-615C-47C6-BBFB-B3FCA22168DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPTClientLourd", "WinFormTestTPT\TPTClientLourd.csproj", "{6E485759-615C-47C6-BBFB-B3FCA22168DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
